@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zu Lizheng"
+title                    : "Suo Shiwei"
 description              : "Focus on Knowledge Graphs, LLM-based Agents and Time Series. "
-repository               : "zulihit.github.io"
+repository               : "ShiweiSuo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
