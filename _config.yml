@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Suo Shiwei"
-description              : "Focus on Knowledge Graphs, LLM-based Agents and Time Series. "
+description              : "Focus on Prognostics and Health Management, and Knowledge Graphs. "
 repository               : "ShiweiSuo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :   # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  jYO1QgIAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zu Lizheng"
+  name             : "Suo Shiwei"
   avatar           : "images/me.png"
   bio              : "HIT Ph.D. candidate"
-  location         : "Singapore"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Jz0LqbsAAAAJ"
-  email            : "zuli_edu@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jYO1QgIAAAAJ"
+  email            : "shiwei_suo@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zulihit" # e.g., "github username"
+  github           : "ShiweiSuo" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
