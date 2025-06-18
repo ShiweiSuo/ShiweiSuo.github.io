@@ -65,7 +65,7 @@ I am fortunate to be supervised by <a href="https://homepage.hit.edu.cn/linlin?l
 <span id="-leadership-publication-work"></span>
 # 📝 Publications
 <sub>$^{\star}$ denotes corresponding author</sub>
-- [1] **Suo S**., Fu S.$^{\star}$, Lin L.$^{\star}$, Zhang S., Liu Y., Hu G., Hu C., DRLSTM‑DA: A Novel Aeroengine Remaining Useful Life Prediction Method Based on Deep Optimization of Multiple Sensors Information, *Measurement Science and Technology*, 2024, 35(9): 095112.**(IF: 2.7, JCR Q1)**
+- [1] **Suo S**., Fu S.$^{\star}$, Lin L.$^{\star}$, Zhang S., Liu Y., Hu G., Hu C., DRLSTM‑DA: A Novel Aeroengine Remaining Useful Life Prediction Method Based on Deep Optimization of Multiple Sensors Information, *Measurement Science and Technology*, 2024, 35(9): 095112.**(IF: 3.4, JCR Q1)**
 - [2] **Shiwei SUO**, Yue WANG$^{\star}$, Lin LIN, et al. A novel aeroengine remaining useful life prediction method considering degradation starting point. *Journal of Advanced Manufacturing Science and Technology*, 2025, 5(1): 2025002.
 
 ---
